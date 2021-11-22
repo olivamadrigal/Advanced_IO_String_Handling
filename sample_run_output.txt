@@ -1,0 +1,82 @@
+Last login: Thu May 17 21:06:48 on ttys000 samiras-MacBook-Pro:~ samira$ cd /Users/samira/Desktop/hw3
+samiras-MacBook-Pro:hw3 samira$ samiras-MacBook-Pro:hw3 samira$ hw3.1 in.txt
+hw3Exe main.c samiras-MacBook-Pro:hw3 samira$ samiras-MacBook-Pro:hw3 samira$ There are 99 lines in the input
+cd hw3
+ls
+mainGcc.c sami.h sami.c samira.h gcc -o hw3Exe mainGcc.c ./hw3Exe in.txt
+file you provided
+Enter a line or range of lines(1 - 99) or "quit" warning: this program uses gets(), which is unsafe. 13
+1 gu^ten tahK
+2 nih HAO
+3 bonjour
+Enter a line 5
+5 salve!
+Enter a line 9
+9 Nachalo
+Enter a line
+15 12
+Perhaps you meant to enter the range: 12 to 15?
+or range of lines(1 - 99) or "quit"
+or range of lines(1 - 99) or "quit"
+or range of lines(1 - 99) or "quit"
+Enter 12 15 12
+13
+14 15
+Enter 16 17 16
+17
+Enter 0 Enter
+Enter
+0 17
+The range must be numbers must be between 1 and 99
+Enter a line or range of lines(1 - 99) or "quit"
+21
+21 Grothendieck: a mathematical problem will solve itself when, by sufficient humble attentiveness, one has found
+Enter a line or range of lines(1 - 99) or "quit"
+22
+22 Grothendieck: exactly it's right context and formulation.
+Enter a line or range of lines(1 - 99) or "quit" 101
+Enter a line number that is between 1 and 99
+Enter a line or range of lines(1 - 99) or "quit" 102
+Enter a line number that is between 1 and 99
+Enter a line or range of lines(1 - 99) or "quit" 0
+Enter a line number that is between 1 and 99
+Enter a line or range of lines(1 - 99) or "quit"
+0 15
+The range must be numbers must be between 1 and 99
+a line or range of lines(1 - 99) or "quit"
+Noam Chomsky: On my own, not in the high school system.
+Noam Chomsky: I'm into eating as little as possible, paying as little attention as possible. Noam Chomsky: I never cook. stove or anything.
+Noam Chomsky: Oh, I won't bore you.
+a line or range of lines(1 -
+BYavorsky and ADetlaf Computer Algebra and Robotics
+99) or "quit"
+a line or range of lines(1 -
+a line number that is between 1 and 99
+a line or range of lines(1 - 99) or "quit"
+Enter a line or range of lines(1 - 99) or "quit" 57
+57 David Ruelle: students. The latter means
+Enter a line or range of lines(1 - 99) or "quit" 78
+78 David Ruelle: headed by Anatole Abragam and
+Normale-Ulm headed by Jean Brossel.
+99) or "quit"
+Enter a line or range of lines(1 - 99) or "quit"
+91
+91 David Ruelle: the IHÉS Director Léon Motchane would have been much more prudent in dealing
+Enter a line or range of lines(1 - 99) or "quit"
+20
+20 Tomas Recio: subresultants to cope with the problem of parametrizing Sturm's procedure
+Enter a line or range of lines(1 - 99) or "quit"
+23
+23 Accordning to the Authors of "Do Theorems Admit Exceptions"
+Enter a line or range of lines(1 - 99) or "quit"
+99
+99 David Ruelle: rather than just being silently accepted.
+Enter a line or range of lines(1 - 99) or "quit"
+98
+98 David Ruelle: that are fairly well-known but deserve to be discussed
+Enter a line or range of lines(1 - 99) or "quit" 87
+87 David Ruelle: and one is tempted to simply
+Enter a line or range of lines(1 - 99) or "quit" 27
+27 "and as well as"
+Enter a line or range of lines(1 - 99) or "quit" quit
+samiras-MacBook-Pro:hw3 samira$
