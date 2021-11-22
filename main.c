@@ -26,7 +26,7 @@
 #define MAX_LINE 1024
 #define ELEMENTS 50   //to realloc for idxAry
 
-//#define TEST_FILE "/Users/samira/Desktop/CompitoN3/cN3/cN3/in.txt"
+//#define TEST_FILE "in.txt"
 #define FLUSH while( getchar() != '\n')
 
 //prototypes
