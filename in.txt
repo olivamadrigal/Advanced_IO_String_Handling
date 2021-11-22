@@ -1,0 +1,99 @@
+gu^ten tahK
+nih HAO
+bonjour
+ciao
+salve!
+allora
+konnichiwa!
+Hola
+Nachalo
+A Brief History of Time
+Gymnopedies Gnossiennes and other works for piano
+Noam Chomsky: On my own, not in the high school system.
+Noam Chomsky: I'm into eating as little as possible, paying as little attention as possible. 
+Noam Chomsky: I never cook. stove or anything.
+Noam Chomsky: Oh, I won't bore you.
+BYavorsky and ADetlaf
+Computer Algebra and Robotics
+Tomas Recio: Since there is no theorem on the number of real roots as a sole function of the degree of a polynomial
+Tomas Recio: one of my contributions to this subject was an algorithm, improving Sturms theorem, using
+Tomas Recio: subresultants to cope with the problem of parametrizing Sturm's procedure
+Grothendieck: a mathematical problem will solve itself when, by sufficient humble attentiveness, one has found
+Grothendieck: exactly it's right context and formulation.
+Accordning to the Authors of "Do Theorems Admit Exceptions"
+"Mathematical thought concerning proof is different" 
+"from thought in all other domains of knowledge"
+"including the sciences" 
+"and as well as"
+"everyday expericen; the concept of formal proof is completely outside the mainstram thinking"
+David Wells: This claim is at best misleading and at worst, false.
+David Wells: Counterexamples are to be found among analyses withing 
+David Wells: popular abstract games such as chess and Go, or Hex and Nine Men's Morris,
+David Wells: and many much simpler abstract games;
+David Wells: within popular abstract puzzles such as Luca's Tower of Hanoi
+David Wells: or Euler's Bridges of Köningsberg or the Leaping Frogs puzzle & many other
+David Wells: well-known 'investigations'; and (of course) in the wide cross-over genre of
+David Wells: mathematical recreations such as pentominoes and knight tours which
+David Wells: combine elements of abstract games with elements of puzzles.
+David Wells: By tackling puzzles and games, and those intermediate recreations, which 
+David Wells: to pupils appear (at first) to be non-mathematical 
+David Wells: (mathematicians know better of course) pupils can create their own totally
+David Wells: convincing arguments (proofs) of various forms and hence develop their
+David Wells: conceptions of proof in more-or-less familiar surroundings. 
+David Wells: Puzzles and games are natual to all pupils from a young age, and suitably
+David Wells: simple puzzles and games
+David Wells: are easy
+David Wells: to find, and many have been published...
+David Wells: the central concepts of mathematical arguments & proof can be firmly embedded in familiar 
+David Wells: situations, from a young age, and much of their claimed difficulty
+David Wells: simply disappears.
+Letters to the Editor
+David Ruelle (IHES, Paris):  Dear Yves Meyer,
+David Ruelle:  I was very pleased to read the text of your EMS interview as published
+David Ruelle: in the IAMP New Bulletin of July 2011, especially what you said about the French Grandes Ecoles.
+David Ruelle: I am, as you are, in favour of 
+David Ruelle: the elitist system of the Ecole Normale and the Ecole Polytechnique 
+David Ruelle: but against the lifelong privileges given to their
+David Ruelle: students. The latter means 
+David Ruelle: that there is lifelong discrimi- nation against those who 
+David Ruelle: did not graduate from one of the Ecoles. 
+David Ruelle: Amusingly (or sadly) many left-wing French intellectuals, 
+David Ruelle: who are ready to fight every sort of discrimination, make an exception for            
+David Ruelle: that one.
+David Ruelle: When I came to France in 1964 (after working in Bel- gium, 
+David Ruelle: Switzerland and the US), the IHES was not yet called IHÉS and it was outside of the French system. 
+David Ruelle: Discussions about people to invite were based on scientific 
+David Ruelle: quality at the international level; only later 
+David Ruelle: would one hear things like “he is one of the best mathematicians from the Ecole Normale in the 
+David Ruelle: last ten years”. After my arrival at the IHES, my new colleague Louis Michel took time to 
+David Ruelle: tell me who in the French mathematics and physics community was from the Ecole Normale and 
+David Ruelle: who was from the Ecole Polytechnique (Michel became 
+David Ruelle: furious when I got it wrong). I was neither Normale nor Polytechnique and, 
+David Ruelle: after a while, I came to realise that this was important for 
+David Ruelle: many French people I interacted with (there were
+David Ruelle: some visible exceptions like 
+David Ruelle: René Thom, who couldn’t care less, and also, curiously, 
+David Ruelle: Jacques-Louis Lions). Later, in the physics section of 
+David Ruelle: the Académie des Sciences, I was surrounded by two blocs: Saclay-Polytechnique 
+David Ruelle: headed by Anatole Abragam and Normale-Ulm headed by Jean Brossel. 
+David Ruelle: At one point, Jacques Friedel made a list 
+David Ruelle: of those awarded the “grand prix” in physics, showing a 
+David Ruelle: fair equilibrium between the two blocs. But, as 
+David Ruelle: Friedel pointed out, very little was left to people outside the blocs...
+David Ruelle: Discrimination against various human groups 
+David Ruelle: is widespread and often has tragic consequences. 
+David Ruelle: The discrimination in France against those who are not 
+David Ruelle: from the Grandes Ecoles may be seen as a rather mild affair 
+David Ruelle: and one is tempted to simply 
+David Ruelle: shrug it off. One shouldn’t. I think that 
+David Ruelle: Alexander Grothendieck’s tragic story is strongly 
+David Ruelle: related to the fact that he was not from the Ecole Normale. If he had been, 
+David Ruelle: the IHÉS Director Léon Motchane would have been much more prudent in dealing 
+David Ruelle: with him and he might not have left. Or after 
+David Ruelle: he left the IHÉS, probably more effort would 
+David Ruelle: have been made by the community to find a 
+David Ruelle: suitable position for him.
+David Ruelle: Thank you again then for publishing your interview. 
+David Ruelle: This gave me a chance to repeat things 
+David Ruelle: that are fairly well-known but deserve to be discussed 
+David Ruelle: rather than just being silently accepted.
