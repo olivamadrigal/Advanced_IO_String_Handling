@@ -1,8 +1,7 @@
 # Advanced_IO_String_Handling
 Advanced String Handling and Advanced I/O in C
 
-
-1. A variation of Project 3, page 163: from John Perry's Book on Advancec C Programming
+This is a variation of Project 3, page 163: from John Perry's Book on Advancec C Programming
 
 Requirements:
 a. Display the maximum line number in the file.
